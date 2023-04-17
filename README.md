@@ -6,7 +6,7 @@ What was the problem you were solving in the projects for this course?
 
 How did you approach the problem? Consider why data structures are important to understand.
 
-  I had two considerations in my approach to the problem: first, the efficiency of the program, and second, forward-compatibility with functionality that is likely to be required of such a program in the future. 
+  I had two considerations in my approach to the problem: first, the efficiency of the program, and second, forward-compatibility with functionality that is likely to be required of such a program in the future. Given these, there was no difference in worst-case efficiency among the various data structures we considered for the project, but a search tree stood to be most forward-compatible and more runtime-efficient in the functionality likely to be added.
 
 
 How did you overcome any roadblocks you encountered while going through the activities or project?
