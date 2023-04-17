@@ -1,5 +1,5 @@
 # CS300
-What was the problem you were solving in the projects for this course?
+What was the problem you were solving in the projects for this course? \n
   Allowing professors at ABC University to load a list of courses into a searchable data structure (including those courses’ names, IDs, and prerequisites) and print all courses in order or search for a course by its ID. 
 
 How did you approach the problem? Consider why data structures are important to understand.
